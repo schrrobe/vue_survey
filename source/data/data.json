@@ -1,0 +1,64 @@
+{
+	"survey": {
+		"ratings": {
+			"satisfaction": [
+				{
+					"id": "sat-one-star",
+					"val": 1
+				},
+				{
+					"id": "sat-two-stars",
+					"val": 2
+				},
+				{
+					"id": "sat-three-stars",
+					"val": 3
+				},
+				{
+					"id": "sat-four-stars",
+					"val": 4
+				},
+				{
+					"id": "sat-five-stars",
+					"val": 5
+				}
+			],
+			"access": [
+				{
+					"id": "acc-one-star",
+					"val": 1
+				},
+				{
+					"id": "acc-two-stars",
+					"val": 2
+				},
+				{
+					"id": "acc-three-stars",
+					"val": 3
+				},
+				{
+					"id": "acc-four-stars",
+					"val": 4
+				},
+				{
+					"id": "acc-five-stars",
+					"val": 5
+				}
+			]
+		},
+		"options": {
+			"foundProducts": [
+				{
+					"id": "fp-choice-one",
+					"caption": "question.access.firstOption",
+					"val": true
+				},
+				{
+					"id": "fp-choice-two",
+					"caption": "question.access.secondOption",
+					"val": false
+				}
+			]
+		}
+	}
+}
